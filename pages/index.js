@@ -16,19 +16,15 @@ export default function Home() {
           <li>I will gain new knowledge after this sem</li>
           <li>I expect that I will have mun while learning</li>
         </ul>
-        <p> 10 things that requires 0 talent </p>
-         <ol>
-          <li>Being on Time</li>
-          <li>Body language</li>
-          <li>Effort</li>
-          <li>Energy</li>
-          <li>Being coachable</li>
-          <li>Doing extra</li>
-          <li>Positive Attitude</li>
-          <li> Being prepared</li>
-          <li>Following work ethics</li>
-          <li>Asking permission</li>
-         </ol>
+
+        <p>3 things about me</p>
+        <ol>
+          <li>I love to sleep</li>
+          <li>Self motivated</li>
+          <li>Introverted</li>
+          <li>I love to read</li>
+        </ol>
+      
       </section>
     </Layout>
   );
