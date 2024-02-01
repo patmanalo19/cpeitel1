@@ -29,7 +29,6 @@ export default function Home() {
           <li>Following work ethics</li>
           <li>Asking permission</li>
          </ol>
-
       </section>
     </Layout>
   );
