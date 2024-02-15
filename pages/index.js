@@ -9,13 +9,6 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Patrick. I'm a graphic designer and digital artist. I love to read manga and watch movies in my free time.</p>
-        <p> My expectation in this subject </p>
-        <ul>
-          <li>I expect this subject to be challenging for me</li>
-          <li>I will gain new knowledge after this sem</li>
-          <li>I expect that I will have mun while learning</li>
-        </ul>
         <p> 10 things that requires 0 talent </p>
          <ol>
           <li>Being on Time</li>
@@ -29,6 +22,8 @@ export default function Home() {
           <li>Following work ethics</li>
           <li>Asking permission</li>
          </ol>
+
+         <a href="url">our Next.js tutorial</a>
       </section>
     </Layout>
   );
